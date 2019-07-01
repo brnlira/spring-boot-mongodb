@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\Projetos\JAVASourceSpringToolSuite\workspace-sts-3.9.8.RELEASE\.metadata\.plugins\org.eclipse.jdt.core
+3113992514.index
